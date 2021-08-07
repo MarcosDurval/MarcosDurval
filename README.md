@@ -1,8 +1,8 @@
  ## Oi, eu sou o Marcos Durval
  # Estudando Desenvolvimento Web na Trybe
 <div style=display:flex> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosDurval&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDurval&layout=compact&theme=tokyonight&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MarcosDurval&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDurval&layout=compact&theme=tokyonight&include_all_commits=true"/>
 </div>
 
 ##
