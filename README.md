@@ -1,18 +1,27 @@
- ## Oi, eu sou o Marcos Durval
- ### Estudante de Desenvolvimento Web | Trybe
-<div> 
+
+  ## Oi, eu sou o Marcos Durval
+ ### Estudante de Desenvolvimento Web | [Trybe](https://www.betrybe.com)
+<div align='center'> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosDurval&show_icons=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDurval&layout=compact&theme=tokyonight&include_all_commits=true"/>
 </div>
 
 ##
 
-<div>
-<img height="40px" width="40px" src="https://img.icons8.com/color/96/000000/javascript--v1.png" alt="Marcos-Js"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="Marcos-Html"/>
-<img height="40px" width="40px" src="https://img.icons8.com/color/48/000000/css3.png" alt="Marcos-Css"/>
-<img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<div align="center">
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="icon-Js"/>
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="icon-Html"/>
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="icon-Css"/>
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="icon-react"/>
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  alt="icon-redux"/>
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  alt="icon-nodejs"/>
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  alt="icon-mongodb"/>
+  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  alt="icon-mysql"/>
+  <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" alt="icon-sequelize"/>
+   <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  alt="icon-docker"/>
+
+
+
 </div>
 
 ##
