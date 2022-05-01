@@ -4,7 +4,7 @@
   atualmente estudo desenvolvimento web na <a href="https://www.betrybe.com" target="_blank"> Trybe </a> </p>
 <div align='center'> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosDurval&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDurval&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDurval&layout=compact&theme=tokyonight&count_private=true"/>
 </div>
 
 ##
