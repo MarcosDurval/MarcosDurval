@@ -1,7 +1,11 @@
 
   ## Oi, eu sou Marcos Durval
- <p> Tenho 22 anos e
-  atualmente estudo desenvolvimento web na <a href="https://www.betrybe.com" target="_blank"> Trybe </a> </p>
+<p> - Cursei desenvolvimento web na <a href="https://www.betrybe.com" target="_blank"> Trybe </a>  2022 </p> 
+<p> - Desenvolvedor Full Stack na Pontuax de Novembro 2022 - Dezembro 2025</p>
+<p> - Cursando Análise e Desenvolvimento de Sistemas - Previsão de Formção 2026</p>
+<p> - Aprendendo Java</p>
+<p></p>
+<p>
 <div align='center'> 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosDurval&show_icons=true&theme=tokyonight"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDurval&layout=compact&theme=tokyonight&count_private=true"/>
