@@ -1,9 +1,9 @@
 
   ## Oi, eu sou Marcos Durval
-<p> - Cursei desenvolvimento web na <a href="https://www.betrybe.com" target="_blank"> Trybe </a>  2022 </p> 
-<p> - Desenvolvedor Full Stack na Pontuax de Novembro 2022 - Dezembro 2025</p>
-<p> - Cursando Análise e Desenvolvimento de Sistemas - Previsão de Formção 2026</p>
-<p> - Aprendendo Java</p>
+<p> 🎓 Cursei desenvolvimento web na <a href="https://www.betrybe.com" target="_blank"> Trybe </a>  2022 </p> 
+<p>💼 3 anos de experiência em desenvolvimento web </p>  
+<p>📚 Cursando Análise e Desenvolvimento de Sistemas </p>  
+<p>🌱 Atualmente aprendendo Java </p>
 <p></p>
 <p>
 <div align='center'> 
