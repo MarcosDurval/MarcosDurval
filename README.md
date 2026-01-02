@@ -4,12 +4,6 @@
 <p>💼 3 anos de experiência em desenvolvimento web </p>  
 <p>📚 Cursando Análise e Desenvolvimento de Sistemas </p>  
 <p>🌱 Atualmente aprendendo Java </p>
-<p></p>
-<p>
-<div align='center'> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarcosDurval&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDurval&layout=compact&theme=tokyonight&count_private=true"/>
-</div>
 
 ##
 ### Tecnologias
